@@ -68,8 +68,6 @@ def playerMove():
       else:
           print("space is full")
           
-def compmove():
-    pass
 
 
 def handle_move():
